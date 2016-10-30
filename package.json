@@ -1,6 +1,6 @@
 {
   "name": "adapt-theme-latitude-master",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A theme specifically for Latitude Financial",
   "main": "",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/pacmanphil/adapt-theme-latitude-master.git"
   },
-  "author": "AdaptLearning",
+  "author": "PhillipCurrie",
   "license": "GPL v3",
   "bugs": {
     "url": "https://github.com/pacmanphil/adapt-theme-latitude-master/issues"

@@ -1,11 +1,11 @@
 {
   "name": "adapt-theme-latitude-master",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/pacmanphil/test",
   "authors": [
     ""
   ],
-  "displayName": "Latitude Theme",
+  "displayName": "Latitude-Theme",
   "theme": "Latitude",
   "description": "A test theme for Latitude",
   "main": "js/basic.js",
