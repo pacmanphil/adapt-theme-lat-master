@@ -3,7 +3,7 @@ adapt-latitude
 
 Introduction
 ---
-This is test theme for Latitude, a custom theme trial to confirm edit skills.
+This is test theme for Latitude adapted from the original contrib-vanilla theme bundled with Adapt, a custom theme trial to confirm edit skills.
 
 As with any Adapt compatible theme, the structure of the theme is as follows:
 
