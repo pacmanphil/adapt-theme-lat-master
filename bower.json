@@ -1,0 +1,24 @@
+{
+  "name": "adapt-theme-latitude-master",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pacmanphil/test",
+  "authors": [
+    ""
+  ],
+  "displayName": "Latitude Theme",
+  "theme": "Latitude",
+  "description": "A test theme for Latitude",
+  "main": "js/basic.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
