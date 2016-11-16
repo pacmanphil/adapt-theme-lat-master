@@ -18,3 +18,37 @@
         padding: @page-title-padding;
     }
 }
+//* added page footer styling 
+
+.page-footer {
+padding: 75px 7% 100px 7%;
+color: @primary-color-inverted;
+background-color: @primary-color;
+text-color: @primary-color-inverted;
+
+//* visited link */
+a:visited {
+color: white;
+text-decoration: none;
+}
+
+//* mouse over link */
+a:hover {
+color: hotpink;
+text-decoration: underline;
+}
+
+//* selected link */
+a:active {
+color: blue;
+}
+img {
+padding: 0px 8px;
+height: 20px;
+&.xl {
+height: 35px;
+}
+}
+.left { float: left; }
+.right { float: right; }
+}
